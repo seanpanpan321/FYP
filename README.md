@@ -1,5 +1,4 @@
-# FYP
-Cross Platform VR game with mobile sensing device\
+# Cross Platform VR game with mobile sensing device (Final Year Project at HKUST)
 For more info, see our [FYP Proposal](https://github.com/seanpanpan321/FYP/blob/main/FYP%20Proposal.pdf) to check out our development process.
 
 Check out our [Final Paper](https://drive.google.com/file/d/16ENwnxXkCq2KCAyoTnItJwQoNbcMloET/view?usp=share_link), which documents the whole development process in detail!
